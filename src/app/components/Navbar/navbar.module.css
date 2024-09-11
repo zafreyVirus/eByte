@@ -1,0 +1,10 @@
+.container{
+    width: 100vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    font-size: 30px;
+    font-weight: bold;
+}
